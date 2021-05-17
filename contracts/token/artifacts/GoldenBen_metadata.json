@@ -828,10 +828,10 @@
 			]
 		},
 		"contracts/token/GoldenBen.sol": {
-			"keccak256": "0x21d10dab93e9544c7eb197552b7b5843024423921757b2c76a68b94b7cfe1288",
+			"keccak256": "0xf428cae5ca34736aaff6139cdb68fc44b055aa699fece79bdd8694c1410ae3b3",
 			"urls": [
-				"bzz-raw://980d418a6b9ce9566e62be3de742570f6d4ed0c129f79b8a510f4969a3b7d905",
-				"dweb:/ipfs/QmP9rVeWiJjCRW3npN399yEHT2VzASkuGt6STJ3xH8NdDB"
+				"bzz-raw://ce4e5d8ceec4b0a4be72f42bb562afd09cd09c74bb824bf40f265c151da28081",
+				"dweb:/ipfs/QmTUbCX2y5onJ7APu6kxuzzyVCJRZS8SFRcJZJQTx6RLPS"
 			]
 		},
 		"contracts/utils/Address.sol": {

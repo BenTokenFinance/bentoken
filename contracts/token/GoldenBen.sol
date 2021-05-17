@@ -1,11 +1,7 @@
 pragma solidity 0.6.12;
 
-import '../math/SafeMath.sol';
-import '../libs/IBEP20.sol';
 import '../libs/BEP20.sol';
-import '../GSN/Context.sol';
-import '../access/Ownable.sol';
-
+//import 'https://github.com/BenTokenFinance/bentoken/blob/main/contracts/libs/BEP20.sol';
 
 // GoldenBen with Governance.
 contract GoldenBen is BEP20('Golden Ben', 'GBEN') {
