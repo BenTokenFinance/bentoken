@@ -465,24 +465,27 @@
 			]
 		},
 		"contracts/access/Ownable.sol": {
-			"keccak256": "0x989ee013feed5aa22ef2884e8b8ee5e9745eb1c155c637f58b6e8f8b3c8ea855",
+			"keccak256": "0x3994916134fe70b883817a9c168d98601176f54c1c2055a88539b0841bcb044b",
+			"license": "GPL-3.0-or-later",
 			"urls": [
-				"bzz-raw://443fe87c57a3a8419871029de2d6f8fb49c27a8e44546105063e90dce236f1ec",
-				"dweb:/ipfs/QmZbVEDBc3oaZNttTRmgb1ZXVEWpkAKdtvaP7njrCwfoTv"
+				"bzz-raw://ebda874fd9b91437519be97669387100cb9a3a2130e427263e88e1cafbf1fc06",
+				"dweb:/ipfs/QmenZY4EiGfarnphMuq2L3RfoiFnUmZCiaiWKntjPrJE7e"
 			]
 		},
 		"contracts/libs/BEP20.sol": {
-			"keccak256": "0x9dc22c130e42ef36171770ef11b2ad81cf760ed0fd0639be7958fda9a63c07d9",
+			"keccak256": "0xd81562c83193eb05e2c8709dfe461e6245d765300f19d593c4cfbef5e7d16bcc",
+			"license": "MIT",
 			"urls": [
-				"bzz-raw://8844c917538005db0d848595e8403674f30154ab9db55d1993d7e5951d3aae46",
-				"dweb:/ipfs/QmdhaPuzGNNGFCXzs8d6rsNx7wEVjRe6nyFTPwee7PzUoz"
+				"bzz-raw://71ac3a1d480566ddd81f66dc9bde144382879de4fbadd8511f0116178c2b493d",
+				"dweb:/ipfs/QmY1aCyozK2ewkuFu5wVMEFyL1fcTa3hmXJNGrqHMZCYyS"
 			]
 		},
 		"contracts/libs/IBEP20.sol": {
-			"keccak256": "0x1466ba22461d84dbe68084723e4faf2b1a2aecabdf9b54cb532cbc38200ae74c",
+			"keccak256": "0x3b34985d475736b3e1f052f37a60d6fd5c241edc5659e64a0355053761b3fb63",
+			"license": "GPL-3.0-or-later",
 			"urls": [
-				"bzz-raw://ea60fdada0a3ca0fa073d55bb3864e5980592469d8efe84db3fc104cd598132c",
-				"dweb:/ipfs/QmSVg74Pq9icQfuTB6fsRZkeF9E9CeNDDGTnHLEiN5waCd"
+				"bzz-raw://caa176537a6285c31e9018a8fb2cc293cbcb95ff597e16230d4d0365d3033ed2",
+				"dweb:/ipfs/Qmb5J74aHqkrd1X5y4p1795ocntuaRy6KCHRxjymSFPCGe"
 			]
 		},
 		"contracts/math/SafeMath.sol": {
@@ -494,10 +497,11 @@
 			]
 		},
 		"contracts/utils/Address.sol": {
-			"keccak256": "0xd83de37f62211b04976f6bf8594422f7074f118ae9f5f68869aa7b3d27353a82",
+			"keccak256": "0x17867d4fec96b68d7c8024d24874c2ad0fe1d4740cd865160c55f1df34edd9ad",
+			"license": "MIT",
 			"urls": [
-				"bzz-raw://0b3b0a8aede5e60be15bae9d1459d3c9c3eb527084928bdf6389cca8b89eded3",
-				"dweb:/ipfs/QmXhe5vPQZ4JB3goLjxQRg93mnYNM7N5QXLwLmEJxmYw32"
+				"bzz-raw://e50d58b7b48ca2169df8061b22bce022eff350232e45008fb878bf7c1c9f6ee7",
+				"dweb:/ipfs/QmfXmVKnEqZVwqNAErHZhAma7Ti8DrE2ZqFtTkA9NbBBPb"
 			]
 		}
 	},

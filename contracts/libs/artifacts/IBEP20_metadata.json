@@ -308,10 +308,11 @@
 	},
 	"sources": {
 		"contracts/libs/IBEP20.sol": {
-			"keccak256": "0x1466ba22461d84dbe68084723e4faf2b1a2aecabdf9b54cb532cbc38200ae74c",
+			"keccak256": "0x3b34985d475736b3e1f052f37a60d6fd5c241edc5659e64a0355053761b3fb63",
+			"license": "GPL-3.0-or-later",
 			"urls": [
-				"bzz-raw://ea60fdada0a3ca0fa073d55bb3864e5980592469d8efe84db3fc104cd598132c",
-				"dweb:/ipfs/QmSVg74Pq9icQfuTB6fsRZkeF9E9CeNDDGTnHLEiN5waCd"
+				"bzz-raw://caa176537a6285c31e9018a8fb2cc293cbcb95ff597e16230d4d0365d3033ed2",
+				"dweb:/ipfs/Qmb5J74aHqkrd1X5y4p1795ocntuaRy6KCHRxjymSFPCGe"
 			]
 		}
 	},
