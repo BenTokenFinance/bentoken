@@ -1,0 +1,68 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Wrappers around BEP20 operations that throw on failure (when the token contract returns false). Tokens that return no value (and instead revert or throw on failure) are also supported, non-reverting calls are assumed to be successful. To use this library you can add a `using SafeBEP20 for IBEP20;` statement to your contract, which allows you to call the safe operations as `token.safeTransfer(...)`, etc.",
+			"kind": "dev",
+			"methods": {},
+			"title": "SafeBEP20",
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/libs/SafeBEP20.sol": "SafeBEP20"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/libs/IBEP20.sol": {
+			"keccak256": "0x1466ba22461d84dbe68084723e4faf2b1a2aecabdf9b54cb532cbc38200ae74c",
+			"urls": [
+				"bzz-raw://ea60fdada0a3ca0fa073d55bb3864e5980592469d8efe84db3fc104cd598132c",
+				"dweb:/ipfs/QmSVg74Pq9icQfuTB6fsRZkeF9E9CeNDDGTnHLEiN5waCd"
+			]
+		},
+		"contracts/libs/SafeBEP20.sol": {
+			"keccak256": "0x6f1a87f3770b57203519d71911de4629548feab8305ac9dd1dd201eada6f8833",
+			"urls": [
+				"bzz-raw://f95f25594d0762231aa085596c9d3399f0196d32687020a24ce201c0b98d71fa",
+				"dweb:/ipfs/QmSX2BAETZJHRNx8Cux4SsRy3TdJ26eprvCT81RN4xJh5g"
+			]
+		},
+		"contracts/math/SafeMath.sol": {
+			"keccak256": "0x0eee9006ac5e854d09a5c43e598b87e85f7680a472d624e7895adc668466c4e6",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://3681fb2526de47fc5ae4cdeed6520eac16e8d8f8fc86b5e95c8de7b9a39e9f27",
+				"dweb:/ipfs/QmSfSeH7LjEn4gFF4A2ZKyMtM2QczyrZR7QWKTUSFkn4CH"
+			]
+		},
+		"contracts/utils/Address.sol": {
+			"keccak256": "0xd83de37f62211b04976f6bf8594422f7074f118ae9f5f68869aa7b3d27353a82",
+			"urls": [
+				"bzz-raw://0b3b0a8aede5e60be15bae9d1459d3c9c3eb527084928bdf6389cca8b89eded3",
+				"dweb:/ipfs/QmXhe5vPQZ4JB3goLjxQRg93mnYNM7N5QXLwLmEJxmYw32"
+			]
+		}
+	},
+	"version": 1
+}
