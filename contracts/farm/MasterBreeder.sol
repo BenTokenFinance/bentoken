@@ -4,6 +4,8 @@ pragma solidity 0.6.12;
 
 import '../libs/SafeBEP20.sol';
 import '../token/GoldenBen.sol';
+//import 'https://github.com/BenTokenFinance/bentoken/blob/main/contracts/libs/SafeBEP20.sol';
+//import 'https://github.com/BenTokenFinance/bentoken/blob/main/contracts/token/GoldenBen.sol';
 
 // MasterBreeder is the master of GoldenBen. He can make GoldenBen and he is a fair guy.
 //
