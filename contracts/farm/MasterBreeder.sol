@@ -241,4 +241,12 @@ contract MasterBreeder is Ownable {
         massUpdatePools();
         emissionPerBlock = _emissionPerBlock;
     }
+
+    // Change the startBlock if it has not started yet
+    function updateStartBlock(uint256 newStartBlock) public onlyOwner {
+        require(block.number < startBlock, "updateStartBlock: cannot update startBlock since it has already started.");
+        require(block.number < newStartBlock, "updateStartBlock: cannot update startBlock to a block in the past.");
+
+        startBlock = newStartBlock;
+    }
 }
