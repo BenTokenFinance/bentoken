@@ -20,7 +20,7 @@ contract Temple is Ownable {
         gben = _gben;
     }
 
-    function worship(uint256 amount, string prayer) external {
+    function worship(uint256 amount, string memory prayer) external {
         require (amount > 0, "Worship: amount needs to be positive");
 
         gben.safeTransferFrom(address(msg.sender), address(gben), amount);
